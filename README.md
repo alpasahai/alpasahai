@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hardworking, intelligent and ambitious - these are the words that are often associated with me when asked by my peers about who I am. Hi, my name is Alpa Sahai, and I am a Software Engineering (Honours) student at Griffith University, passionate about innovation, problem-solving and using technology to make a meaningful impact. <br><br>As Vice President of Women in Engineering (WiE) at Griffith's Nathan campus, I help to lead and organise large-scale events such as the annual Engineering Gala and industry networking nights, connecting students with industry professionals and supporting the growth of a stronger engineering community. <br><br>As a recipient of the ATSE Elevate: Boosting Women in STEM Scholarship, I am so fortunate to be able to gain access to opportunities that help to engage inspiring women leaders in the STEM field, thus allowing me to flourish as a future STEM professional. My interests relating to my degree lie in software development and computer systems, with a focus on how I can apply my learning and skills to address global challenges. I am especially interested in fields such as aviation technology, quantum computing and sustainability-focused innovation, where I can contribute to building efficient and effective solutions. <br><br>Outside of my studies, I enjoy movement through cultural dance, yoga and Muay Thai Kickboxing. As a young woman from Fiji, I find pleasure in delving deeper into my culture and exploring other cultures. Through these experiences, I have gained resilience, adaptability and a sense of open-mindedness that allows me to thrive in collaborative environments. I am passionate about supporting diversity in STEM, growing as a leader, and building a brighter future where technology benefits our society and our surroundings. <br><br>I am always open to connecting with industry professionals, mentors, and peers who share a passion for innovation, collaboration and positive change.
 
-<!--
-**alpasahai/alpasahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alpa-sahai) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alpasahai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alpasahai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpasahai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
